@@ -206,3 +206,4 @@ alias knife='/cygdrive/c/opscode/chefdk/embedded/bin/ruby C:/opscode/chefdk/bin/
 alias chef-client='/cygdrive/c/opscode/chefdk/embedded/bin/ruby C:/opscode/chefdk/bin/chef-client'
 alias chef-solo='/cygdrive/c/opscode/chefdk/embedded/bin/ruby C:/opscode/chefdk/bin/chef-solo'
 alias shef='/cygdrive/c/opscode/chefdk/embedded/bin/ruby C:/opscode/chefdk/bin/shef'
+alias berks='/cygdrive/c/opscode/chefdk/embedded/bin/ruby C:/opscode/chefdk/bin/berks'
