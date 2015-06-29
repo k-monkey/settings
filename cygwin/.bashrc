@@ -199,6 +199,7 @@
 
 #path
 export PATH=~/bin:$PATH:/cygdrive/c/opscode/chefdk/bin:/cygdrive/c/opscode/chefdk/embedded/bin:/cygdrive/d/maven/bin/
+export PATH=$PATH:'/cygdrive/c/Program Files/Oracle/VirtualBox'
 export PYTHONPATH=~/workspaces/interview/python
 
 #alias for chef to prevent ruby error
